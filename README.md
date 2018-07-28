@@ -9,3 +9,13 @@ In one word it makes possible huge forests of more than 100k trees, with wind, c
 Usage
 
 The usage is quite simple and is carefully explained in the documentation.
+
+Extra information along with in-game views can be found on the Unity forum post:
+https://forum.unity.com/threads/critias-vegetation-system-asset-store.495424/
+
+A demo can be found here:
+https://www.dropbox.com/s/jbk31mhbhkphe7r/CritiasFoliageDemo_V1.zip?dl=0
+
+Tutorials can be found here:
+https://critiaspaidsystems.wistia.com/medias/stmaxiwtb7
+https://critiaspaidsystems.wistia.com/medias/qqa92995xo

@@ -1,5 +1,7 @@
 # Critias-FoliageSystem
 
+![Alt text](/extra/Screen_1.png?raw=true "Optional Title")
+
 About
 
 'Critias Foliage System' is an system that is designed to paint, render and extract millions of instances of foliage without taking into account all the foliage but only the one that is in the proximity of the player. The flow is quite close to Unreal's foliage painter. Add your foliage to the system, set it's runtime settings and start painting!

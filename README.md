@@ -1,6 +1,6 @@
 # Critias-FoliageSystem
 
-![Alt text](/Extra/Screen_1.png?raw=true "Optional Title")
+![Alt text](/Extra/Screen_Header.png?raw=true "Optional Title")
 
 About
 
